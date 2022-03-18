@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/new-amsterdam-united/static/css/main.62de7f7c.chunk.css",
+    "main.js": "/new-amsterdam-united/static/js/main.e2ff150f.chunk.js",
+    "main.js.map": "/new-amsterdam-united/static/js/main.e2ff150f.chunk.js.map",
+    "runtime-main.js": "/new-amsterdam-united/static/js/runtime-main.f0d7c30a.js",
+    "runtime-main.js.map": "/new-amsterdam-united/static/js/runtime-main.f0d7c30a.js.map",
+    "static/js/2.d6298688.chunk.js": "/new-amsterdam-united/static/js/2.d6298688.chunk.js",
+    "static/js/2.d6298688.chunk.js.map": "/new-amsterdam-united/static/js/2.d6298688.chunk.js.map",
+    "index.html": "/new-amsterdam-united/index.html",
+    "precache-manifest.39906ff0d01de9ac7316b96b4ca119ab.js": "/new-amsterdam-united/precache-manifest.39906ff0d01de9ac7316b96b4ca119ab.js",
+    "service-worker.js": "/new-amsterdam-united/service-worker.js",
+    "static/css/main.62de7f7c.chunk.css.map": "/new-amsterdam-united/static/css/main.62de7f7c.chunk.css.map",
+    "static/js/2.d6298688.chunk.js.LICENSE.txt": "/new-amsterdam-united/static/js/2.d6298688.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/new-amsterdam-united/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/logo.png": "/new-amsterdam-united/static/media/logo.26bfd091.png",
+    "static/media/soccer-main-landing.jpeg": "/new-amsterdam-united/static/media/soccer-main-landing.34967eba.jpeg",
+    "static/media/spring-mens-les.jpeg": "/new-amsterdam-united/static/media/spring-mens-les.a039e781.jpeg",
+    "static/media/winter-mens-lic.jpeg": "/new-amsterdam-united/static/media/winter-mens-lic.6a393f4e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0d7c30a.js",
+    "static/js/2.d6298688.chunk.js",
+    "static/css/main.62de7f7c.chunk.css",
+    "static/js/main.e2ff150f.chunk.js"
+  ]
+}
