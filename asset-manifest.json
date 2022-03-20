@@ -1,27 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.d3a45680.chunk.css",
-    "main.js": "./static/js/main.071ec711.chunk.js",
-    "main.js.map": "./static/js/main.071ec711.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.f83f5d83.js",
-    "runtime-main.js.map": "./static/js/runtime-main.f83f5d83.js.map",
-    "static/js/2.d6298688.chunk.js": "./static/js/2.d6298688.chunk.js",
-    "static/js/2.d6298688.chunk.js.map": "./static/js/2.d6298688.chunk.js.map",
+    "main.css": "./static/css/main.c5f7ff78.css",
+    "main.js": "./static/js/main.b0dae024.js",
+    "static/media/spring-mens-les.jpeg": "./static/media/spring-mens-les.2ead6ca4a6bf9e6c71ac.jpeg",
+    "static/media/winter-mens-lic.jpeg": "./static/media/winter-mens-lic.2d6d8a06cbd14617e1f6.jpeg",
+    "static/media/soccer-main-landing.jpeg": "./static/media/soccer-main-landing.567beca3bb3d38168965.jpeg",
+    "static/media/logo.png": "./static/media/logo.8ed81108068b5ed46606.png",
+    "static/media/illustration-section-01.svg": "./static/media/illustration-section-01.980998916c8e9369ffab.svg",
+    "static/media/illustration-section-02.svg": "./static/media/illustration-section-02.f11c21a9745d2454b81c.svg",
     "index.html": "./index.html",
-    "precache-manifest.8d1626b9903c9572c042488b237f45b7.js": "./precache-manifest.8d1626b9903c9572c042488b237f45b7.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.d3a45680.chunk.css.map": "./static/css/main.d3a45680.chunk.css.map",
-    "static/js/2.d6298688.chunk.js.LICENSE.txt": "./static/js/2.d6298688.chunk.js.LICENSE.txt",
-    "static/media/style.scss": "./static/media/illustration-section-02.63d0555d.svg",
-    "static/media/logo.png": "./static/media/logo.26bfd091.png",
-    "static/media/soccer-main-landing.jpeg": "./static/media/soccer-main-landing.34967eba.jpeg",
-    "static/media/spring-mens-les.jpeg": "./static/media/spring-mens-les.a039e781.jpeg",
-    "static/media/winter-mens-lic.jpeg": "./static/media/winter-mens-lic.6a393f4e.jpeg"
+    "main.c5f7ff78.css.map": "./static/css/main.c5f7ff78.css.map",
+    "main.b0dae024.js.map": "./static/js/main.b0dae024.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.f83f5d83.js",
-    "static/js/2.d6298688.chunk.js",
-    "static/css/main.d3a45680.chunk.css",
-    "static/js/main.071ec711.chunk.js"
+    "static/css/main.c5f7ff78.css",
+    "static/js/main.b0dae024.js"
   ]
 }
