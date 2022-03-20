@@ -2,6 +2,7 @@
   "name": "new-amsterdam-united",
   "version": "0.1.0",
   "homepage": ".",
+  "proxy": "http://localhost:3000",
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
